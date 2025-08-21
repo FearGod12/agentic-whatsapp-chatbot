@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+twilio
+openai
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
+httpx
+redis
