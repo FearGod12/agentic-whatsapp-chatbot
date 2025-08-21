@@ -424,17 +424,6 @@ This will provide detailed logging and auto-reload on code changes.
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For support and questions:
-
-- Check the troubleshooting section
-- Review the API documentation at `/docs`
-- Open an issue on GitHub
 
 ---
 
