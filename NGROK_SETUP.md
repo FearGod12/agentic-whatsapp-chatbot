@@ -183,7 +183,3 @@ Forwarding                    https://abc123.ngrok.io -> http://localhost:8000
 - Ensure HTTPS URL
 - Include `/webhook` path
 - Check for typos
-
----
-
-**Happy testing! 🚀📱**
