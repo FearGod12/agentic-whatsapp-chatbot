@@ -424,7 +424,3 @@ This will provide detailed logging and auto-reload on code changes.
 4. Add tests if applicable
 5. Submit a pull request
 
-
----
-
-**Happy chatting! 🤖💬**
